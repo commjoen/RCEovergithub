@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/sh
 
 echo "hello soc team, can you see me? love your work"
 echo "hello blue team"
